@@ -1,0 +1,231 @@
+Date,Time of day,Sender,Content
+04/07/2018,13:52:10,Me,"[{""iOS_bundleImageName"":null,""ImageUrl"":""https:\/\/s8.pik.ba\/galerija\/2018-02\/20\/11\/slika-719384-5a8ca39241f35-default.jpg"",""Action"":{""name"":""openurl"",""parameters"":{""url"":""https:\/\/www.olx.ba\/r\/28672151\/719384""}},""ImageType"":""regular"",""iOS_imageContentMode"":1,""DownloadID"":null,""iOS_imageFormat"":null,""iOS_ShowPlayButton"":false,""Width"":1,""iOS_isEmbeddedVideoURL"":false,""Type"":""img"",""DisplayWidth"":400,""BucketName"":null,""iOS_HighlightOnTap"":true,""DisplayHeight"":400},{""HighlightLinks"":false,""MaxLinesNumber"":2,""Underline"":true,""Action"":{""name"":""openurl"",""parameters"":{""url"":""https:\/\/www.olx.ba\/r\/28672151\/719384""}},""Bold"":false,""Width"":1,""HighlightEmoticons"":true,""Type"":""txt"",""Size"":2,""Color"":""1470418"",""iOS_HighlightOnTap"":true,""Text"":""MacBook Pro 13"",""Italic"":false},{""HighlightLinks"":false,""MaxLinesNumber"":0,""Underline"":false,""Action"":{""name"":""openurl"",""parameters"":{""url"":""https:\/\/www.olx.ba\/r\/28672151\/719384""}},""Bold"":false,""Width"":1,""HighlightEmoticons"":true,""Type"":""txt"",""Size"":1,""Color"":""8553090"",""iOS_HighlightOnTap"":false,""Text"":""olx.ba"",""Italic"":false},{""Commands"":[{""name"":""ios_send_json_message"",""parameters"":{""mediaType"":""url"",""platform_key"":""ios"",""info"":""{\""ThumbnailWidth\"":0,\""ThumbnailHeight\"":0,\""URL\"":\""https:\\\/\\\/www.olx.ba\\\/r\\\/28672151\\\/719384\"",\""ContentType\"":\""text\\\/html\"",\""Type\"":\""default\"",\""Title\"":\""MacBook Pro 13\"",\""ThumbnailContentType\"":\""image\\\/jpeg\"",\""ThumbnailURL\"":\""https:\\\/\\\/s8.pik.ba\\\/galerija\\\/2018-02\\\/20\\\/11\\\/slika-719384-5a8ca39241f35-default.jpg\"",\""ContentLength\"":11270,\""Text\"":\""https:\\\/\\\/www.olx.ba\\\/r\\\/28672151\\\/719384\""}""}},{""name"":""copy"",""parameters"":{""str"":""https:\/\/www.olx.ba\/r\/28672151\/719384""}},{""name"":""ios_forward_json_message"",""parameters"":{""mediaType"":""url"",""info"":""{\""ThumbnailWidth\"":0,\""ThumbnailHeight\"":0,\""URL\"":\""https:\\\/\\\/www.olx.ba\\\/r\\\/28672151\\\/719384\"",\""ContentType\"":\""text\\\/html\"",\""Type\"":\""default\"",\""Title\"":\""MacBook Pro 13\"",\""ThumbnailContentType\"":\""image\\\/jpeg\"",\""ThumbnailURL\"":\""https:\\\/\\\/s8.pik.ba\\\/galerija\\\/2018-02\\\/20\\\/11\\\/slika-719384-5a8ca39241f35-default.jpg\"",\""ContentLength\"":11270,\""Text\"":\""https:\\\/\\\/www.olx.ba\\\/r\\\/28672151\\\/719384\""}"",""ios_forward_flags"":1,""platform_key"":""ios""}}],""Type"":""cmd"",""Width"":1},{""ios_URLMessageWithDirectLinkToGIF"":false,""ios_realMediaType"":""url"",""PreviewText"":""olx.ba"",""TrackingData"":null,""FmType"":null,""PushText"":""https:\/\/www.olx.ba\/r\/28672151\/719384"",""PreviewTextIndex"":null,""PushTextIndex"":null,""Width"":1,""ios_slashKeyTracking"":null,""ios_embeddedMediaUrlType"":0,""Type"":""info"",""OnClick"":null,""ios_GroupPushText"":null,""ios_shouldBeProcessed"":false}]"
+04/08/2018,10:51:20,Me,Evo salje mi ovaj jos slika
+04/08/2018,11:03:13,Me,A ovo je macbook air
+04/08/2018,11:03:17,Me,Sto mi salje
+04/08/2018,11:03:18,Me,Sad
+04/08/2018,11:03:21,Me,Ove slike
+04/08/2018,11:03:29,Me,Ono prvo je macbook pro
+04/08/2018,11:03:36,Me,A ove slike su macbook air
+04/17/2018,20:18:19,Enes,"[{""HighlightLinks"":true,""MaxLinesNumber"":0,""Underline"":false,""Bold"":false,""Width"":1,""HighlightEmoticons"":true,""Type"":""txt"",""Size"":2,""Color"":""3289650"",""iOS_HighlightOnTap"":false,""Text"":""DELL Latitude E5480 i7-6600U 8RAM 512SSD Nvidia 930MX (1.450 KM)\nhttps:\/\/www.olx.ba\/r\/28990204\/438546"",""Italic"":false},{""iOS_bundleImageName"":null,""ImageUrl"":""https:\/\/s8.pik.ba\/galerija\/2017-11\/17\/05\/slika-81143-5a0f13ffc07de-default.jpg"",""Action"":{""name"":""openurl"",""parameters"":{""url"":""https:\/\/www.olx.ba\/r\/28990204\/438546""}},""ImageType"":""regular"",""iOS_imageContentMode"":1,""DownloadID"":null,""iOS_imageFormat"":null,""iOS_ShowPlayButton"":false,""Width"":1,""iOS_isEmbeddedVideoURL"":false,""Type"":""img"",""DisplayWidth"":400,""BucketName"":null,""iOS_HighlightOnTap"":true,""DisplayHeight"":400},{""HighlightLinks"":false,""MaxLinesNumber"":2,""Underline"":true,""Action"":{""name"":""openurl"",""parameters"":{""url"":""https:\/\/www.olx.ba\/r\/28990204\/438546""}},""Bold"":false,""Width"":1,""HighlightEmoticons"":true,""Type"":""txt"",""Size"":2,""Color"":""1470418"",""iOS_HighlightOnTap"":true,""Text"":""DELL Latitude E5480 i7-6600U 8RAM 512SSD Nvidia 930MX"",""Italic"":false},{""HighlightLinks"":false,""MaxLinesNumber"":0,""Underline"":false,""Action"":{""name"":""openurl"",""parameters"":{""url"":""https:\/\/www.olx.ba\/r\/28990204\/438546""}},""Bold"":false,""Width"":1,""HighlightEmoticons"":true,""Type"":""txt"",""Size"":1,""Color"":""8553090"",""iOS_HighlightOnTap"":false,""Text"":""olx.ba"",""Italic"":false},{""Commands"":[{""name"":""ios_send_json_message"",""parameters"":{""mediaType"":""url"",""platform_key"":""ios"",""info"":""{\""ThumbnailWidth\"":0,\""ThumbnailHeight\"":0,\""URL\"":\""https:\\\/\\\/www.olx.ba\\\/r\\\/28990204\\\/438546\"",\""ContentType\"":\""text\\\/html; charset=UTF-8\"",\""Type\"":\""default\"",\""Title\"":\""DELL Latitude E5480 i7-6600U 8RAM 512SSD Nvidia 930MX\"",\""ThumbnailContentType\"":\""text\\\/html; charset=UTF-8\"",\""ThumbnailURL\"":\""https:\\\/\\\/s8.pik.ba\\\/galerija\\\/2017-11\\\/17\\\/05\\\/slika-81143-5a0f13ffc07de-default.jpg\"",\""ContentLength\"":52000,\""Text\"":\""DELL Latitude E5480 i7-6600U 8RAM 512SSD Nvidia 930MX (1.450 KM)\\nhttps:\\\/\\\/www.olx.ba\\\/r\\\/28990204\\\/438546\""}""}},{""name"":""copy"",""parameters"":{""str"":""DELL Latitude E5480 i7-6600U 8RAM 512SSD Nvidia 930MX (1.450 KM)\nhttps:\/\/www.olx.ba\/r\/28990204\/438546""}},{""name"":""ios_forward_json_message"",""parameters"":{""mediaType"":""url"",""info"":""{\""ThumbnailWidth\"":0,\""ThumbnailHeight\"":0,\""URL\"":\""https:\\\/\\\/www.olx.ba\\\/r\\\/28990204\\\/438546\"",\""ContentType\"":\""text\\\/html; charset=UTF-8\"",\""Type\"":\""default\"",\""Title\"":\""DELL Latitude E5480 i7-6600U 8RAM 512SSD Nvidia 930MX\"",\""ThumbnailContentType\"":\""text\\\/html; charset=UTF-8\"",\""ThumbnailURL\"":\""https:\\\/\\\/s8.pik.ba\\\/galerija\\\/2017-11\\\/17\\\/05\\\/slika-81143-5a0f13ffc07de-default.jpg\"",\""ContentLength\"":52000,\""Text\"":\""DELL Latitude E5480 i7-6600U 8RAM 512SSD Nvidia 930MX (1.450 KM)\\nhttps:\\\/\\\/www.olx.ba\\\/r\\\/28990204\\\/438546\""}"",""ios_forward_flags"":1,""platform_key"":""ios""}}],""Type"":""cmd"",""Width"":1},{""ios_URLMessageWithDirectLinkToGIF"":false,""ios_realMediaType"":""url"",""PreviewText"":""olx.ba"",""TrackingData"":null,""FmType"":null,""PushText"":""DELL Latitude E5480 i7-6600U 8RAM 512SSD Nvidia 930MX (1.450 KM)\nhttps:\/\/www.olx.ba\/r\/28990204\/438546"",""PreviewTextIndex"":null,""PushTextIndex"":null,""Width"":1,""ios_slashKeyTracking"":null,""ios_embeddedMediaUrlType"":0,""Type"":""info"",""OnClick"":null,""ios_GroupPushText"":null,""ios_shouldBeProcessed"":false}]"
+05/26/2018,23:34:06,Me,Instalirao aplikaciju
+05/26/2018,23:34:14,Me,Pare na racuni
+05/26/2018,23:34:15,Me,U
+05/26/2018,23:34:18,Me,Hvala puno
+05/26/2018,23:34:22,Me,(happy)
+06/16/2018,16:07:17,Me,Enciii
+06/16/2018,16:07:22,Me,Izvini molim te
+06/16/2018,16:07:27,Me,Nisam imao kredita
+06/16/2018,16:07:32,Me,A izasao vani da trcim
+06/16/2018,16:07:39,Me,Ja cu kuci biti
+06/16/2018,16:07:47,Me,Da ne idem na aerodrom bezveze
+06/16/2018,16:07:53,Me,Taman da malo pocistim
+06/16/2018,16:08:05,Me,Jesi ti dole ?
+06/16/2018,16:38:50,Enes,(like)
+06/16/2018,16:39:04,Me,Uranio si
+06/16/2018,16:39:08,Me,Bas mi zao
+06/18/2018,21:26:20,Enes,Eto jos jedna mala potpora za predstojeći izlet(wink)
+06/18/2018,21:26:40,Me,Pa ljudi
+06/18/2018,21:26:45,Me,Bit ce mi do nove godine
+06/18/2018,21:27:20,Me,Hvala puno
+06/18/2018,21:27:25,Me,(happy)
+06/18/2018,21:28:13,Enes,Lijep provod!
+06/18/2018,21:30:22,Me,Hvala
+07/02/2018,20:15:26,Me,poslao sam ti maminu novu knjigu na kindle
+07/02/2018,20:15:46,Me,ne znam je li moj mail verifikovan da se tebi salje na kindle
+07/02/2018,20:15:51,Me,ako niej
+07/02/2018,20:15:56,Me,evo ti i ovako
+07/02/2018,20:16:40,Enes,"Hvala, hvala."
+07/05/2018,12:33:38,Me,Enci
+07/05/2018,12:33:52,Me,Pita te tata hoces li ti na dzenazu?
+07/05/2018,12:34:10,Enes,Hoću
+07/05/2018,12:34:28,Enes,Autom
+07/05/2018,12:34:41,Me,Hoces ici s nekim?
+07/05/2018,12:35:07,Enes,Ne. Možemo zajedno.
+07/05/2018,12:35:18,Me,Pa hajde
+07/05/2018,12:35:22,Me,Kad ti odgovara
+07/05/2018,12:35:35,Me,Gdje se nadjete
+07/05/2018,12:37:37,Enes,Tamo kod trafike. U 17:10h. Pitaj ga je li kasno? Hoćemo li u 17h?
+07/05/2018,12:37:56,Me,Kaze bolje u 5
+07/05/2018,12:38:00,Me,Dok se parkiras
+07/05/2018,12:38:06,Me,Da ne zakasnite
+07/05/2018,12:38:10,Enes,Ok
+07/05/2018,12:38:26,Enes,Onda u pet.
+07/05/2018,12:38:32,Me,Super
+07/05/2018,12:38:34,Me,Hvala ti
+07/05/2018,12:38:39,Me,(happy)(like)(like)
+07/19/2018,11:47:56,Enes,Sretno. Lijep provod. Imaš 50KM.
+07/19/2018,11:48:32,Me,Jao hvalaaaa
+07/19/2018,11:48:48,Me,Posaljem slike
+07/19/2018,11:49:14,Enes,(like)(sun)
+07/20/2018,11:52:01,Enes,Imaš od mame uplatu 70KM (wink)
+07/20/2018,17:50:24,Me,Aaaaaa
+07/24/2018,14:39:41,Me,Sretan rodjendaaaaaaaaaaaaaaaaaaaaaan
+07/24/2018,14:39:58,Me,Puno pozdravaaaaaaaaaaa
+07/24/2018,14:41:29,Enes,Hvalaaaaaa.(laugh) Vidim lose ti(yummi)
+08/07/2018,18:55:16,Me,Dze ti je dijete? Ja je zovem ona nista
+08/07/2018,18:55:23,Me,Evo stigao mi tupervare
+08/07/2018,18:55:34,Me,"Ako nece ona jos, da dodjem do vas"
+08/07/2018,18:55:37,Me,??
+08/07/2018,18:56:02,Enes,Mi smo kući. Bujrum.
+08/07/2018,18:56:09,Me,Hajde eto me
+08/29/2018,12:07:24,Me,"Enci, ja sam htio dedi kupiti onu pavlaku sto je i vi jedete. Ona narancasta. Njemu se svidja, a nisam siguran ima li je gore kod sabine. Hoces da je uzmem u konzumu ovdje prije nego dodjes da se ne zadrzavamo ?"
+08/30/2018,13:47:25,Enes,Hoćeš li ići na aerodrom po mamu? Ja ću krenuti oko pola tri.
+08/30/2018,13:48:11,Me,ma moze
+08/30/2018,13:48:19,Me,gdje da dodjem?
+08/30/2018,13:50:10,Enes,Kod trafike u pola tri.
+08/30/2018,13:50:33,Me,vazi
+08/30/2018,13:50:38,Me,vidimo se
+08/30/2018,14:22:15,Me,Tu sam
+09/14/2018,12:10:02,Me,Hvalaaaaa
+09/14/2018,12:10:06,Me,Tek sam vidio sad
+09/14/2018,12:10:38,Me,(eek)
+09/14/2018,12:10:38,Me,Kontam otkud
+09/25/2018,11:33:17,Me,Enci
+09/25/2018,11:33:28,Me,Sta je to kod dede s tvom?
+09/25/2018,11:34:20,Enes,Treba resetovati modem.
+09/25/2018,11:34:34,Me,Samo to?
+09/25/2018,11:34:43,Me,Jel moze sam ili?
+09/25/2018,12:22:42,Enes,Otići ću ja popodne.
+01/17/2019,16:11:10,Me,Cuo sam te
+01/17/2019,16:11:14,Me,Sta sutra ?
+01/17/2019,16:11:20,Me,Ne moramo mi doci
+01/17/2019,16:11:24,Me,Ako ne mozete
+01/17/2019,16:11:35,Me,Cini mi se da i dedo dolazi sutra
+01/17/2019,16:11:40,Me,Moze i lamija svratiti
+01/17/2019,16:11:44,Me,Kako god odgovara
+01/17/2019,16:11:53,Me,A kad lamija ide ?
+01/20/2019,17:20:35,Me,https://erol713.github.io/cec-2019/
+01/20/2019,19:32:42,Enes,http://www.index.hr/vijesti/clanak/mladic-iz-bih-razvio-aplikaciju-spaja-one-koji-imaju-i-one-koji-nemaju-hrane/2057091.aspx
+01/20/2019,20:04:16,Me,Ovo je bas dobro
+01/28/2019,22:17:44,Me,Hvalaaaaaaaaa puno
+03/24/2019,12:38:53,Me,Zvao me odmah ovaj iz jamaxa
+03/24/2019,12:38:57,Me,Danas da dodjem
+03/24/2019,12:39:03,Me,U pola 3
+03/24/2019,12:39:05,Me,(happy)
+03/24/2019,12:40:13,Enes,Super. Javi se kad završiš razgovor.
+03/24/2019,13:03:06,Me,Hej
+03/24/2019,13:03:21,Me,Jel znas mi objasniti kako da dodjem tacno
+03/24/2019,13:03:25,Me,On mi je rekao
+03/24/2019,13:03:34,Me,Al nisam ga bas najbolje cuo
+03/24/2019,13:04:50,Enes,Ja sam u petak bio pred zgradom. Nisam vidio gdje je kancelarija.
+03/24/2019,13:04:50,Me,Jel prekoputa poljoprivrede
+03/24/2019,13:04:56,Me,Ili ?
+03/24/2019,13:05:17,Me,Evo sta ja imam
+03/24/2019,16:07:14,Me,Gotovo sve
+03/24/2019,16:07:16,Me,(happy)
+03/24/2019,16:07:21,Me,Super su bili
+03/24/2019,16:07:32,Me,Hvala ti puno
+03/24/2019,16:07:38,Me,Bit ce ovo super
+03/24/2019,16:08:04,Enes,Vidimo se možda večeras.
+03/30/2019,16:26:12,Me,Sta je ovo ?
+03/30/2019,16:41:41,Me,Aaaaa
+04/01/2019,12:55:06,Me,Kad ce vam se stabilizirati 4g da se uzima to
+04/01/2019,12:55:08,Me,(happy)
+04/04/2019,14:33:40,Me,Kad ces kuci danas ?
+04/04/2019,15:00:38,Enes,16:10h vjerovatno. Dođi do Nagiba.
+04/04/2019,15:01:44,Me,Ona buregdzinica ?
+04/04/2019,15:01:55,Enes,Ja.
+04/04/2019,15:02:00,Me,Vaziiiii
+04/04/2019,15:03:27,Enes,"Radi na Malti i ne zna ko je, sta je Nagib. (crazy)"
+04/04/2019,15:03:46,Me,Izvini molim te
+04/04/2019,15:04:04,Me,Nisam u zivotu vise vremena proveo ovdje nego sad
+04/04/2019,15:04:12,Me,Cuj kaze dodji do nagiba
+04/04/2019,15:04:25,Me,Ko da je ajfelov toranj
+04/04/2019,15:04:31,Me,Morao guglati sta je nagib
+04/04/2019,15:05:03,Enes,"It's ok, oprošteno ti je."
+04/07/2019,09:19:43,Enes,"Indira061/381-975033/649-122radi od danas. Nek je nazove i dogovore se, cujemo se,pozdrav."
+04/07/2019,09:21:07,Enes,Eto najbolje da nazoves i dogovoris kad ti odgovara.
+04/07/2019,09:25:24,Me,Vaziiii
+04/07/2019,09:25:29,Me,Hvalaa
+04/07/2019,09:25:34,Me,Kad zavrsavas danas ?
+04/07/2019,09:26:44,Enes,16:20h ne mogu prije.
+04/07/2019,09:26:55,Me,Super
+04/07/2019,09:27:03,Me,(wink)
+04/07/2019,16:15:54,Me,Krecem
+04/07/2019,16:16:16,Enes,Ok
+04/08/2019,15:27:03,Me,Kad cemo danas ?
+04/09/2019,16:02:25,Me,Haloo ?
+04/09/2019,16:10:58,Enes,Hocemo li?
+04/09/2019,16:11:21,Me,Evo sekund da zavrsim
+04/09/2019,16:11:24,Me,Pa izlazim
+04/09/2019,16:11:27,Enes,Ok
+04/09/2019,16:12:00,Enes,Nisam ni ja jos.
+04/10/2019,15:55:29,Me,Samo reci vrijeme i mjesto
+04/10/2019,15:56:44,Enes,Mjesto znas a vrijeme je danas 16:25.
+04/10/2019,15:57:03,Me,To je sve sto mi treba
+04/10/2019,16:21:35,Me,"Enci, ja sam jos gore"
+04/10/2019,16:21:46,Me,Nesto rade jos na ovom mom kodu
+04/10/2019,16:21:51,Me,Pa me stid izaci
+04/10/2019,16:23:00,Enes,"Onda sačekaj. Ja ću sad izaći, nazovem te sa parkinga."
+04/10/2019,16:25:52,Me,Evo izlsziiim
+04/10/2019,16:31:53,Me,Tuuu
+04/10/2019,16:32:25,Enes,Ok
+04/11/2019,16:15:40,Enes,Hej
+04/11/2019,16:16:21,Me,Reci
+04/11/2019,16:16:25,Me,Jesi me to zaboravio
+04/11/2019,16:18:56,Me,Je li bolaaaan
+04/11/2019,16:19:04,Me,Nema veze ako si otisao
+04/11/2019,16:19:09,Me,Mogu bicom
+04/11/2019,16:19:25,Enes,Nisam. Evo sad ću.
+04/11/2019,16:26:48,Me,Eto me za 5 min
+04/11/2019,16:27:59,Enes,Na drugom sam parkingu.
+04/14/2019,15:59:40,Me,Kad cemo danas ?
+04/14/2019,15:59:47,Me,Necu kasniti obecavam
+04/14/2019,15:59:49,Me,(happy)
+04/14/2019,16:00:04,Enes,Uskoro.
+04/14/2019,16:00:20,Enes,10tak min
+04/21/2019,14:07:23,Me,Hocemo skupa ?
+04/21/2019,14:13:56,Enes,Može naravno.
+04/21/2019,16:03:54,Me,Kad cemo ?
+04/21/2019,16:20:33,Me,Eto meee
+04/22/2019,15:38:31,Me,Idemo ?
+04/22/2019,15:45:59,Enes,Naravno
+04/22/2019,16:47:22,Me,Kuci
+04/23/2019,10:57:05,Me,Enci
+04/23/2019,10:57:13,Me,Mene nesto stomak uhvatio
+04/23/2019,10:57:17,Me,Muka mi od jutris
+04/23/2019,10:57:22,Me,Nisam otisao
+04/23/2019,10:57:29,Me,A mama mi ostavila pare za jorgan
+04/23/2019,10:57:45,Me,"Pa ako hoces sacekaj sutra, prekosutra"
+04/23/2019,10:57:48,Me,Da to odradimo
+04/23/2019,10:58:00,Me,Ili kako god si planirao
+04/25/2019,15:29:50,Me,Čmol ?
+04/25/2019,15:48:24,Enes,Ćemo
+04/25/2019,15:50:43,Me,Koliko sati ?
+04/25/2019,15:51:33,Enes,16:15
+04/28/2019,14:20:31,Me,Enci
+04/28/2019,14:20:54,Me,Bil mi mogli krenuti sekund ranije
+04/28/2019,14:21:08,Me,Da stignem oko 4:30 do pozorista
+04/28/2019,14:21:11,Me,Moram na fax nesto
+04/28/2019,14:21:13,Enes,"Ne, na žalost."
+04/28/2019,14:21:23,Me,Ok
+04/28/2019,14:21:27,Me,Onda cu ja ranije
+04/28/2019,14:21:31,Me,Da me ne cekas
+04/28/2019,14:21:54,Enes,Najranije u 16:40h.
+04/28/2019,14:21:59,Me,Uh
+04/28/2019,14:22:02,Me,Nista onda svakako
+04/28/2019,14:22:09,Enes,Ok
+05/05/2019,15:31:35,Enes,Ja ću danas 15:45h.
+05/05/2019,15:31:47,Me,Uh
+05/05/2019,15:31:50,Me,Mogao bih i ja
+05/05/2019,15:32:01,Me,Jel da krenem ?
+05/05/2019,15:33:26,Enes,Moram u granap samo. Najkasnije u 16h.
+05/05/2019,15:33:46,Me,Ok
+05/05/2019,15:33:53,Enes,OK
+05/05/2019,15:34:01,Me,Izaci cu ja u 15 do 4
+05/06/2019,16:01:17,Me,Jesi to gotov ?
+05/06/2019,16:01:40,Enes,Izlazim
+05/06/2019,16:01:44,Me,Evo izlazim i ja
+05/06/2019,16:01:52,Enes,Ok
+05/07/2019,16:33:05,Me,Joj izvini
+05/07/2019,16:33:07,Me,Zab ti javiti
+05/07/2019,16:33:10,Me,Nisam danas isao
+05/07/2019,16:33:17,Me,Imam ispit pa ostao kuci
+05/07/2019,16:57:02,Enes,Ok
+05/09/2019,16:09:02,Me,Jesi to otisao ??
+05/09/2019,16:09:23,Enes,Ne jos.
+05/09/2019,16:09:35,Me,Kad si kontao ?
+05/09/2019,16:09:53,Enes,Sad.
+05/09/2019,16:10:10,Me,Evo izlaziiiiim
+05/09/2019,16:10:28,Enes,OK.

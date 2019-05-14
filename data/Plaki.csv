@@ -1,0 +1,392 @@
+Date,Time of day,Sender,Content
+04/11/2018,22:46:45,Me,Najinteresantnija liga prvaka u zadnjih 10 godina
+04/11/2018,23:04:35,Me,nesto mi liverpool opasan
+04/11/2018,23:04:40,Me,nije dominantan
+04/11/2018,23:04:44,Me,a opasan
+04/11/2018,23:04:54,Me,mada imaju hodajucu gresku lovrena nazad
+04/11/2018,23:05:48,Plaki,Hhahahah
+04/11/2018,23:06:01,Plaki,Prvo sto sam ti htio napisati jeste dejan lovren
+04/13/2018,12:20:20,Me,"[{""iOS_bundleImageName"":null,""ImageUrl"":""http:\/\/www.index.hr\/images2\/index-0cvvc2.jpg"",""Action"":{""name"":""openurl"",""parameters"":{""url"":""http:\/\/www.index.hr\/mobile\/clanak.aspx?category=sport&id=1038370""}},""ImageType"":""regular"",""iOS_imageContentMode"":1,""DownloadID"":null,""iOS_imageFormat"":null,""iOS_ShowPlayButton"":false,""Width"":1,""iOS_isEmbeddedVideoURL"":false,""Type"":""img"",""DisplayWidth"":400,""BucketName"":null,""iOS_HighlightOnTap"":true,""DisplayHeight"":400},{""HighlightLinks"":false,""MaxLinesNumber"":2,""Underline"":true,""Action"":{""name"":""openurl"",""parameters"":{""url"":""http:\/\/www.index.hr\/mobile\/clanak.aspx?category=sport&id=1038370""}},""Bold"":false,""Width"":1,""HighlightEmoticons"":true,""Type"":""txt"",""Size"":2,""Color"":""1470418"",""iOS_HighlightOnTap"":true,""Text"":""KUPANJE NA -200, PLIVANJE I BAKALAR Ronaldo otkrio tajnu fantastične tjelesne pripreme"",""Italic"":false},{""HighlightLinks"":false,""MaxLinesNumber"":0,""Underline"":false,""Action"":{""name"":""openurl"",""parameters"":{""url"":""http:\/\/www.index.hr\/mobile\/clanak.aspx?category=sport&id=1038370""}},""Bold"":false,""Width"":1,""HighlightEmoticons"":true,""Type"":""txt"",""Size"":1,""Color"":""8553090"",""iOS_HighlightOnTap"":false,""Text"":""www.index.hr"",""Italic"":false},{""Commands"":[{""name"":""ios_send_json_message"",""parameters"":{""mediaType"":""url"",""platform_key"":""ios"",""info"":""{\""ThumbnailWidth\"":0,\""ThumbnailHeight\"":0,\""URL\"":\""http:\\\/\\\/www.index.hr\\\/mobile\\\/clanak.aspx?category=sport&id=1038370\"",\""ContentType\"":\""text\\\/html\"",\""Type\"":\""default\"",\""Title\"":\""KUPANJE NA -200, PLIVANJE I BAKALAR Ronaldo otkrio tajnu fantastične tjelesne pripreme\"",\""ThumbnailContentType\"":\""image\\\/jpeg\"",\""ThumbnailURL\"":\""http:\\\/\\\/www.index.hr\\\/images2\\\/index-0cvvc2.jpg\"",\""ContentLength\"":287581,\""Text\"":\""http:\\\/\\\/www.index.hr\\\/mobile\\\/clanak.aspx?category=sport&id=1038370\""}""}},{""name"":""copy"",""parameters"":{""str"":""http:\/\/www.index.hr\/mobile\/clanak.aspx?category=sport&id=1038370""}},{""name"":""ios_forward_json_message"",""parameters"":{""mediaType"":""url"",""info"":""{\""ThumbnailWidth\"":0,\""ThumbnailHeight\"":0,\""URL\"":\""http:\\\/\\\/www.index.hr\\\/mobile\\\/clanak.aspx?category=sport&id=1038370\"",\""ContentType\"":\""text\\\/html\"",\""Type\"":\""default\"",\""Title\"":\""KUPANJE NA -200, PLIVANJE I BAKALAR Ronaldo otkrio tajnu fantastične tjelesne pripreme\"",\""ThumbnailContentType\"":\""image\\\/jpeg\"",\""ThumbnailURL\"":\""http:\\\/\\\/www.index.hr\\\/images2\\\/index-0cvvc2.jpg\"",\""ContentLength\"":287581,\""Text\"":\""http:\\\/\\\/www.index.hr\\\/mobile\\\/clanak.aspx?category=sport&id=1038370\""}"",""ios_forward_flags"":1,""platform_key"":""ios""}}],""Type"":""cmd"",""Width"":1},{""ios_URLMessageWithDirectLinkToGIF"":false,""ios_realMediaType"":""url"",""PreviewText"":""www.index.hr"",""TrackingData"":null,""FmType"":null,""PushText"":""http:\/\/www.index.hr\/mobile\/clanak.aspx?category=sport&id=1038370"",""PreviewTextIndex"":null,""PushTextIndex"":null,""Width"":1,""ios_slashKeyTracking"":null,""ios_embeddedMediaUrlType"":0,""Type"":""info"",""OnClick"":null,""ios_GroupPushText"":null,""ios_shouldBeProcessed"":false}]"
+04/13/2018,12:20:33,Me,Blaza verzija bryanta
+04/13/2018,12:20:47,Me,"Al eto, dovoljno za fudbal"
+04/13/2018,14:27:44,Plaki,Pa dobro si to srocio
+04/13/2018,14:27:52,Plaki,Blaza verzija
+04/13/2018,14:28:18,Plaki,Al opet ne moze on u fudbalu trenirati toliko i da hoce koliko noze brayant u kosarci
+05/01/2018,22:41:04,Me,Ole gunnar larsson
+05/01/2018,22:41:12,Me,Sretan ti rodjendan
+05/01/2018,22:41:16,Me,Puno golova
+05/01/2018,22:41:22,Me,(happy)
+05/02/2018,21:56:17,Me,Dzeki vise niko nista ne smije reci
+05/02/2018,21:56:20,Me,.
+05/02/2018,21:56:44,Me,Kakav god da je
+05/02/2018,21:56:52,Me,8 golova u ligi prvaka
+05/02/2018,22:36:31,Plaki,"A ko mu je ikad i mogao reci samo ovi nas "" intelektualci"" su ga osporavali"
+05/13/2018,14:36:00,Me,"[{""HighlightLinks"":true,""MaxLinesNumber"":0,""Underline"":false,""Bold"":false,""Width"":1,""HighlightEmoticons"":true,""Type"":""txt"",""Size"":2,""Color"":""3289650"",""iOS_HighlightOnTap"":false,""Text"":""ON THE BALL GLOBAL by On The Ball Global Pty Ltd https:\/\/itunes.apple.com\/hr\/app\/on-the-ball-global\/id1316862421?mt=8"",""Italic"":false},{""iOS_bundleImageName"":null,""ImageUrl"":""https:\/\/is2-ssl.mzstatic.com\/image\/thumb\/Purple128\/v4\/84\/31\/80\/84318084-bd23-b420-589a-05246bd12f15\/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png\/1200x630wa.jpg"",""Action"":{""name"":""openurl"",""parameters"":{""url"":""https:\/\/itunes.apple.com\/hr\/app\/on-the-ball-global\/id1316862421?mt=8""}},""ImageType"":""regular"",""iOS_imageContentMode"":1,""DownloadID"":null,""iOS_imageFormat"":null,""iOS_ShowPlayButton"":false,""Width"":1,""iOS_isEmbeddedVideoURL"":false,""Type"":""img"",""DisplayWidth"":400,""BucketName"":null,""iOS_HighlightOnTap"":true,""DisplayHeight"":400},{""HighlightLinks"":false,""MaxLinesNumber"":2,""Underline"":true,""Action"":{""name"":""openurl"",""parameters"":{""url"":""https:\/\/itunes.apple.com\/hr\/app\/on-the-ball-global\/id1316862421?mt=8""}},""Bold"":false,""Width"":1,""HighlightEmoticons"":true,""Type"":""txt"",""Size"":2,""Color"":""1470418"",""iOS_HighlightOnTap"":true,""Text"":""ON THE BALL GLOBAL on the App Store"",""Italic"":false},{""HighlightLinks"":false,""MaxLinesNumber"":0,""Underline"":false,""Action"":{""name"":""openurl"",""parameters"":{""url"":""https:\/\/itunes.apple.com\/hr\/app\/on-the-ball-global\/id1316862421?mt=8""}},""Bold"":false,""Width"":1,""HighlightEmoticons"":true,""Type"":""txt"",""Size"":1,""Color"":""8553090"",""iOS_HighlightOnTap"":false,""Text"":""itunes.apple.com"",""Italic"":false},{""Commands"":[{""name"":""ios_send_json_message"",""parameters"":{""mediaType"":""url"",""platform_key"":""ios"",""info"":""{\""ThumbnailWidth\"":0,\""ThumbnailHeight\"":0,\""URL\"":\""https:\\\/\\\/itunes.apple.com\\\/hr\\\/app\\\/on-the-ball-global\\\/id1316862421?mt=8\"",\""ContentType\"":\""text\\\/html\"",\""Type\"":\""default\"",\""Title\"":\""ON THE BALL GLOBAL on the App Store\"",\""ThumbnailContentType\"":\""image\\\/jpeg\"",\""ThumbnailURL\"":\""https:\\\/\\\/is2-ssl.mzstatic.com\\\/image\\\/thumb\\\/Purple128\\\/v4\\\/84\\\/31\\\/80\\\/84318084-bd23-b420-589a-05246bd12f15\\\/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png\\\/1200x630wa.jpg\"",\""ContentLength\"":24734,\""Text\"":\""ON THE BALL GLOBAL by On The Ball Global Pty Ltd https:\\\/\\\/itunes.apple.com\\\/hr\\\/app\\\/on-the-ball-global\\\/id1316862421?mt=8\""}""}},{""name"":""copy"",""parameters"":{""str"":""ON THE BALL GLOBAL by On The Ball Global Pty Ltd https:\/\/itunes.apple.com\/hr\/app\/on-the-ball-global\/id1316862421?mt=8""}},{""name"":""ios_forward_json_message"",""parameters"":{""mediaType"":""url"",""info"":""{\""ThumbnailWidth\"":0,\""ThumbnailHeight\"":0,\""URL\"":\""https:\\\/\\\/itunes.apple.com\\\/hr\\\/app\\\/on-the-ball-global\\\/id1316862421?mt=8\"",\""ContentType\"":\""text\\\/html\"",\""Type\"":\""default\"",\""Title\"":\""ON THE BALL GLOBAL on the App Store\"",\""ThumbnailContentType\"":\""image\\\/jpeg\"",\""ThumbnailURL\"":\""https:\\\/\\\/is2-ssl.mzstatic.com\\\/image\\\/thumb\\\/Purple128\\\/v4\\\/84\\\/31\\\/80\\\/84318084-bd23-b420-589a-05246bd12f15\\\/AppIcon-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-4.png\\\/1200x630wa.jpg\"",\""ContentLength\"":24734,\""Text\"":\""ON THE BALL GLOBAL by On The Ball Global Pty Ltd https:\\\/\\\/itunes.apple.com\\\/hr\\\/app\\\/on-the-ball-global\\\/id1316862421?mt=8\""}"",""ios_forward_flags"":1,""platform_key"":""ios""}}],""Type"":""cmd"",""Width"":1},{""ios_URLMessageWithDirectLinkToGIF"":false,""ios_realMediaType"":""url"",""PreviewText"":""itunes.apple.com"",""TrackingData"":null,""FmType"":null,""PushText"":""ON THE BALL GLOBAL by On The Ball Global Pty Ltd https:\/\/itunes.apple.com\/hr\/app\/on-the-ball-global\/id1316862421?mt=8"",""PreviewTextIndex"":null,""PushTextIndex"":null,""Width"":1,""ios_slashKeyTracking"":null,""ios_embeddedMediaUrlType"":0,""Type"":""info"",""OnClick"":null,""ios_GroupPushText"":null,""ios_shouldBeProcessed"":false}]"
+05/13/2018,16:53:08,Plaki,Zanimljiva aplikacija
+05/13/2018,16:53:19,Plaki,Samo sto treba para za nju
+05/26/2018,23:34:39,Me,3
+05/26/2018,23:38:14,Plaki,Dinastija real madris
+05/26/2018,23:38:16,Plaki,D
+05/26/2018,23:38:52,Me,Najbolja ekipa u zadnjih 25 godina
+05/26/2018,23:38:58,Me,Ronaldinhova barca
+05/26/2018,23:39:09,Me,I mozda henryev arsenal
+05/26/2018,23:39:22,Me,I milan sa sevchenkom
+05/26/2018,23:39:55,Plaki,Ovo je ne u zadnji 25 god nego u historiji jedna od najjacih ekipa ako i ne najaca
+05/26/2018,23:40:53,Plaki,4 titule u 5 god u ovom modernom fudbalu je neprkosnoveno
+05/26/2018,23:41:46,Me,Al bale je sila
+05/26/2018,23:42:00,Me,Ovo mu je 8. go u zadnje 4 tekme
+05/26/2018,23:42:04,Me,Il tako nesto
+05/26/2018,23:42:18,Me,Bas vidis da je klasa nekako
+05/26/2018,23:42:25,Me,Samo mu mozda ne godi stil igranja
+05/26/2018,23:42:34,Me,I povrede su ga malo zeznule
+05/26/2018,23:42:53,Plaki,Najvise povrede
+05/26/2018,23:43:24,Plaki,Ne mozes ti igrati mjesec pa pauza mjesec a onda isko udje u formu pa asensio
+05/26/2018,23:43:30,Plaki,Ne mozes ga ni staviti
+05/26/2018,23:44:16,Me,Ma ja
+05/26/2018,23:45:41,Plaki,Kakav si ti
+05/26/2018,23:45:51,Plaki,Sta ima
+05/26/2018,23:47:02,Me,Evo
+05/26/2018,23:47:08,Me,Uzimam pare studentima
+05/26/2018,23:47:13,Me,Radim im zadace
+05/26/2018,23:47:15,Me,I tako
+05/26/2018,23:47:24,Me,Kako vama ide
+05/26/2018,23:47:29,Me,Ne javlja se dino
+05/26/2018,23:47:36,Me,Jos ljut zbog sorca valjda
+05/26/2018,23:48:35,Plaki,Fino fino
+05/26/2018,23:49:30,Plaki,Dobro ligaska svakdnevnica odiras utakmicu treniraj do sljedece i tako u krug. Prvi smo tako da je i to dobro. A kakav sorc ??
+05/26/2018,23:50:24,Me,Kako igrate?
+05/26/2018,23:50:31,Me,Ma ledeyov kosarkaski sorc
+05/26/2018,23:50:47,Me,Koji je vareta nekako dobio od njeg
+05/26/2018,23:50:58,Me,I zaboravio na moru kod mene prije 7 godina
+05/26/2018,23:51:02,Me,I ja go nosio
+05/26/2018,23:51:17,Me,I vidi ga na meni zadnji dan pred povratak
+05/26/2018,23:51:29,Me,I molio me da mu se skinemni dam sorc
+05/26/2018,23:51:34,Me,A meni se svidja sorc
+05/26/2018,23:51:37,Me,Ja odbio
+05/26/2018,23:51:41,Me,On se naljutio
+05/26/2018,23:51:42,Me,I eto
+05/26/2018,23:51:47,Me,Otisao ljut
+05/26/2018,23:52:12,Me,"Rekao sam mu da ce dobiti sorc novi za rodjendan i eto, sta cu mu ja"
+05/26/2018,23:52:24,Me,"Al on je to na svoj, vareta, posebni nacin trazio"
+05/26/2018,23:52:30,Me,Znas na sta to lici...
+05/26/2018,23:53:00,Plaki,Dobro iako ja nisam jos u nekoj zavodnoj formi tek sam na 7 od 7 on isto dobar
+05/26/2018,23:53:14,Plaki,Ajde nek je i njemu neko nesto uzeo
+05/26/2018,23:53:23,Me,To sam mu i ja rekao hahahaha
+05/26/2018,23:53:30,Me,Reko kako te nije stid bolan
+05/26/2018,23:53:37,Me,Pola ormara mi kod tebe
+05/26/2018,23:53:44,Me,A on na sred kafane
+05/26/2018,23:53:46,Plaki,Svakdnevno imam te vartovske probleme
+05/26/2018,23:53:52,Me,"Moli, pa preklinje"
+05/26/2018,23:53:55,Me,Pa se dere
+05/26/2018,23:53:58,Me,...
+05/26/2018,23:54:10,Me,Hajde
+05/26/2018,23:54:16,Me,7/7 je pocetqk
+05/26/2018,23:54:22,Me,Zalaufaj se
+05/26/2018,23:54:40,Me,Gledas li kosarku?
+05/26/2018,23:55:37,Plaki,Slabo nemamo ovdje prenose a i ne da mi se ustajati ujutru pa da mi stopa. Al eto gledo sam sad ovo finale eurolige
+05/26/2018,23:55:49,Plaki,Moze li se golden izvuci
+05/26/2018,23:56:17,Me,A ne znam
+05/26/2018,23:56:27,Me,Znas ko ih jebe
+05/26/2018,23:56:31,Me,Curry
+05/26/2018,23:56:52,Me,Sut mu je od 10-20%
+05/26/2018,23:56:56,Me,Po utakmici
+05/26/2018,23:57:00,Me,Uzasan je
+05/26/2018,23:57:42,Me,Harden je cekic
+05/26/2018,23:57:42,Me,Al chris paul se povrijedio u hustonu
+05/26/2018,23:57:42,Me,A on im je mozak
+05/26/2018,23:57:47,Me,Al on je mozak
+05/26/2018,23:58:14,Me,Ode mu zadnja loza
+05/26/2018,23:59:01,Plaki,Nema ga do kraja ?
+05/26/2018,23:59:10,Me,A ne sna se
+05/27/2018,00:00:30,Plaki,Al zato je na istoku civilni rat
+05/27/2018,00:01:03,Me,Odoh spavati
+05/27/2018,00:01:09,Me,Crko sam danas
+05/27/2018,00:01:16,Me,Hajde sretno
+05/27/2018,00:01:19,Me,Ubuduce
+05/27/2018,00:01:21,Me,Cujemo se
+05/27/2018,00:01:34,Plaki,Hvala
+05/27/2018,00:01:36,Plaki,Cuvaj se
+05/29/2018,09:33:58,Plaki,Jesigledosinoc nba
+05/29/2018,11:14:57,Me,Nisam
+05/29/2018,11:15:46,Me,Nisam mogao izdrzati
+05/29/2018,12:30:57,Plaki,Ja gledao preegled jutros
+05/29/2018,12:31:16,Plaki,Sta je ono jebt onaj golden s tribina ljudi sutiraju
+05/29/2018,13:07:45,Me,Ma bjezi
+05/29/2018,13:07:51,Me,Iznervirao sam se bas
+05/29/2018,13:07:58,Me,Ne mogu onog curryia nikako
+05/29/2018,13:08:07,Me,27 trica zaredom fulio huston
+05/29/2018,13:08:10,Me,Rekord lige
+05/29/2018,13:08:15,Me,Sad sreo murgu
+05/29/2018,13:08:24,Me,Kaze udario vilu na utakmici
+05/29/2018,13:08:28,Me,Nokautiro ga
+05/29/2018,13:08:33,Me,Psovao nesto
+05/29/2018,13:08:40,Me,Murgu suspendovali
+05/29/2018,13:08:43,Me,Vilu otjerali
+05/29/2018,13:08:47,Me,(happycry)
+05/29/2018,13:09:02,Me,Sto se ono ti ne vratis ovdje da igras?
+05/29/2018,13:09:06,Me,Zaboravio sam
+05/29/2018,13:09:11,Me,(yummi)
+05/29/2018,15:15:09,Plaki,Hahahahahahah
+05/29/2018,15:15:15,Plaki,E ne mogu da vjerujem
+05/29/2018,15:15:46,Plaki,U stvari mogu da vjerujem
+06/14/2018,23:14:45,Plaki,Logan lucky
+06/14/2018,23:19:13,Me,valja?
+06/14/2018,23:19:21,Me,ja ga nisam gledao
+06/14/2018,23:19:26,Me,bio mi je nekako los trailer
+06/14/2018,23:19:29,Me,pa sam ga preskocio
+06/14/2018,23:19:40,Plaki,Dobar
+06/14/2018,23:19:50,Plaki,Neobican
+06/14/2018,23:20:37,Plaki,Pljacka banke al komedija
+06/14/2018,23:20:54,Me,ma znam
+06/14/2018,23:20:59,Me,ali kazes dobar?
+06/14/2018,23:21:20,Me,ja sam neki dan gledao pawn sacrifice
+06/14/2018,23:21:22,Me,nije los
+06/14/2018,23:21:26,Me,nije sad ni aman zaman
+06/14/2018,23:21:29,Me,al ok je
+06/14/2018,23:22:06,Plaki,On je meni u superlativu
+06/14/2018,23:22:27,Plaki,Al ovaj he dobar ne Nolanski al dobar
+06/14/2018,23:23:42,Me,sta ti je u superlaivu?
+06/14/2018,23:23:48,Me,pawn sacrifice?
+06/14/2018,23:23:52,Me,stvarno?
+06/14/2018,23:24:05,Plaki,Ja
+06/14/2018,23:24:10,Me,cuj
+06/14/2018,23:24:11,Plaki,Predobar je
+06/14/2018,23:24:23,Me,meni je malo previse oko komunjara
+06/14/2018,23:24:33,Me,da je vise o sahu bio bi mi super
+06/14/2018,23:24:59,Me,da su malo bolje objasnili ustvari sta on radi u sahu npr
+06/14/2018,23:25:20,Me,umjesto da ima 25 minuta kako on trazi prisluskivace
+06/14/2018,23:26:14,Plaki,Dobro to se slazem vise je prikazana njegova bolest nego sahovsko majstorstvo
+06/14/2018,23:26:44,Plaki,Gledas li billions
+06/14/2018,23:26:51,Plaki,Izasla je treca sezona
+06/14/2018,23:27:02,Me,"nisam, prestao na 1"
+06/14/2018,23:27:03,Plaki,Ja cu poceti svrsavati na onu seriju
+06/14/2018,23:29:50,Plaki,Sta ima jos ktb hoce li se ikad ista desiti u tvom zivotu ili ce citav zivot biti status quo
+06/14/2018,23:33:03,Me,ma ja to malo pretjerujem
+06/14/2018,23:33:23,Me,ali status quo ce da bude jos
+06/14/2018,23:33:39,Me,dok ne odlucim drugacjie
+06/14/2018,23:34:13,Plaki,Predugo mi traje
+06/14/2018,23:34:38,Plaki,Jesi li jos u vezi
+06/14/2018,23:34:57,Me,a jesam
+06/14/2018,23:34:58,Me,...
+06/14/2018,23:36:48,Plaki,"To mi ""a""  aludira na neko nezadovoljstvo"
+06/14/2018,23:37:14,Me,ma ne znam
+06/14/2018,23:37:25,Me,iskristalisat ce se
+06/14/2018,23:37:26,Me,:)
+06/14/2018,23:37:30,Me,sta ima kod tebe
+06/14/2018,23:37:39,Me,svjetsko prvenstvo
+06/14/2018,23:37:53,Me,sad je svaki dan kao liga prvaka
+06/14/2018,23:41:52,Plaki,Pa ne znam sta da ti kazem gledoa sam rapored nema puno atraktivni utakmica svako kolo po jedna barem ova prva faza al eto bice utakmica
+06/14/2018,23:44:10,Me,kako ide tebi?
+06/14/2018,23:44:14,Me,trpas li?
+06/14/2018,23:48:54,Plaki,Znas da mi je to kiseonik koji udisem
+06/14/2018,23:49:15,Plaki,A ostalo isto
+06/14/2018,23:49:28,Plaki,Dobro je
+06/14/2018,23:50:00,Plaki,Jedino sto ne mozemo doci sad dole na odmor 15 20 dana
+06/14/2018,23:50:10,Plaki,Al iskreno ni pada mi tesko
+06/14/2018,23:51:41,Me,ma nema nista
+06/14/2018,23:51:46,Me,vjeruj
+06/14/2018,23:51:54,Me,sutra bajram moram se brijati
+06/14/2018,23:51:56,Me,sad
+06/14/2018,23:52:00,Me,valja ustati u 5
+06/14/2018,23:54:38,Plaki,Hajde
+06/14/2018,23:54:53,Plaki,Cucemo se
+06/15/2018,06:09:17,Me,Bajrambarecola
+06/15/2018,06:09:20,Me,Sve najbolje
+06/15/2018,09:18:54,Plaki,Allah razola
+06/15/2018,09:19:10,Plaki,I tebi Bajrambarecola
+06/15/2018,20:09:24,Me,Svirajte mi...penal
+06/15/2018,20:45:40,Me,Ronaldo == L. James
+06/15/2018,20:45:45,Me,Identicni
+06/15/2018,20:50:11,Plaki,Masine
+06/15/2018,20:50:23,Plaki,Utakmica je fenomenalna
+06/15/2018,20:51:28,Me,Najbolja dosad
+06/15/2018,20:51:47,Me,Ne znam kad je ronaldo odigrao boljih 45 min
+06/15/2018,20:52:02,Me,Da igra ovako non stop
+06/15/2018,20:52:19,Me,Voljelo bi ga 80% vise ljudi
+06/15/2018,20:52:38,Me,Ukljucujuci i mene
+06/15/2018,20:54:49,Plaki,Ne vole ga ljudi sto je narcis a ne radi igre nemoj srati igra on dobro uvijek samo sto je sad odigro vise timski
+06/15/2018,20:55:29,Me,Ma ne igra boga mi plaki
+06/15/2018,20:55:38,Me,Ima tekmi kad kurcu ne valja
+06/15/2018,20:55:47,Me,Al zabije 2 gola
+06/15/2018,20:56:01,Me,Danas stvarno lijepo igra
+06/15/2018,20:57:16,Plaki,Jest al onda ne bi pola golova dao sto dadne
+06/15/2018,20:58:32,Me,Costa medo pravi
+06/15/2018,20:58:56,Plaki,Hahahah
+06/15/2018,20:59:02,Plaki,Al zato zabi golcinu
+06/15/2018,22:27:24,Plaki,"Sto bi ovaj moj brazilac koji ne zna reci R rekao , Honaldo Honaldo"
+06/15/2018,22:27:27,Plaki,Honaldo
+06/15/2018,22:27:43,Me,Gonaldo
+07/16/2018,20:07:16,Me,Kakvi su kod vas utisci?
+07/16/2018,21:17:12,Plaki,Za svjetsko ?
+07/16/2018,21:17:33,Me,Jah
+07/16/2018,21:17:39,Me,Evo gledam
+07/16/2018,21:17:53,Me,Docek hrvata
+07/16/2018,21:17:58,Me,550 000
+07/16/2018,21:18:06,Me,Ljudi
+07/16/2018,21:19:03,Plaki,Pa i zasluzili su
+07/16/2018,21:19:22,Plaki,Drago mi je sto je modric proglasen za ...
+07/16/2018,21:19:38,Plaki,A i fracuzi su sila
+07/16/2018,21:19:47,Plaki,Nema sta
+07/16/2018,21:25:57,Me,Ma hrvati su igrali onako kako bi svi mi voljeli da nam reprezentacija igra
+07/16/2018,21:26:19,Me,"Koliko ovo znaci za hrvatsku, to nije normalno"
+07/16/2018,21:32:46,Plaki,"Kako nece znaciti jebote samo kad kazes hrvatska u finalu neshvatljivo mi. Ali realno nisu oni sad odigrali nesto zapazeno, ljudi su trcali borili se i na kraju nagradjeni za sve to"
+07/16/2018,21:47:25,Me,Kako ide vama?
+07/16/2018,21:47:33,Me,Hajmo malo statistike
+07/16/2018,21:47:35,Me,Hajde hajde
+07/16/2018,21:48:45,Plaki,Prvi
+07/16/2018,21:48:59,Plaki,20golova 13 utakmica
+07/16/2018,21:49:19,Plaki,Mislim da 7 bodova bjezimo drugom
+07/16/2018,21:49:40,Me,Kako vareta
+07/16/2018,21:49:48,Plaki,Dobar
+07/16/2018,21:50:40,Plaki,Trebali ici na probu 4 u prvu diviziju i tri dana prije polaska javili nam da nam ne mogu platiti karte i tako nismo ni otisli
+07/16/2018,21:50:44,Me,Ima li kakvih prica oko drugih klubova?
+07/16/2018,21:50:56,Me,Aaa
+07/16/2018,21:50:59,Me,Jebote
+07/16/2018,21:51:46,Plaki,Tako ti je prijatelju moj
+07/16/2018,21:53:23,Plaki,"Hocu li te pitati sta ima kod tebe ili cu se zadovoljiti opet s"" nema nista sve isto"""
+07/16/2018,21:53:40,Me,Evo odoh na more
+07/16/2018,21:53:45,Me,Konacno
+07/16/2018,21:54:06,Me,Kad se vi vracate?
+07/16/2018,21:54:15,Me,Hocete ikako prije novembra?
+07/16/2018,21:54:42,Plaki,Lijepo gdje ces ici ?
+07/16/2018,21:54:55,Plaki,Pocetkom oktobra nam je zadnja utakmica
+07/16/2018,21:55:11,Plaki,Pa cemo vidjeti poslije toga sta ce biti
+07/16/2018,21:55:26,Me,Auu
+07/16/2018,21:55:31,Me,Nista za ljeto
+07/16/2018,21:55:35,Plaki,Ako ne budemo mogli naci nista vratiti cemo se vjerovanto
+07/16/2018,21:55:43,Plaki,Al sad cemo moci ostati duze
+07/16/2018,21:55:52,Plaki,Necemo sme odmah vracati
+07/16/2018,21:56:01,Me,Kako mislis
+07/16/2018,21:56:02,Plaki,Nema nista od ljeta
+07/16/2018,21:56:12,Me,Necete vise taj amal?
+07/16/2018,21:56:23,Me,Iako se progurate u diviziju vise?
+07/16/2018,21:59:28,Plaki,Daleko je sad pricati al ne zelim da stavim taj scenario u glavu da opet igramo ove nize lige
+07/16/2018,22:00:17,Me,Aha aha
+07/16/2018,22:00:20,Me,Pq dobro
+07/16/2018,22:00:34,Me,Iskristalisat ce se do jeseni hajde
+07/16/2018,22:00:38,Me,Samo dan po dan
+07/16/2018,22:00:44,Me,Utakmicu po utakmicu
+07/16/2018,22:03:52,Plaki,Ma jasta
+07/16/2018,22:04:13,Plaki,Al eto zivot je nekad siv nekad zut
+07/16/2018,22:04:53,Plaki,Zabija se i na drugim poljima
+07/16/2018,22:04:57,Plaki,Sto je jako bitno
+07/16/2018,22:05:30,Me,(clap)(clap)(clap)(clap)(clap)(clap)(clap)
+07/16/2018,22:05:40,Me,Ide li ona s tobom?
+07/16/2018,22:05:59,Me,Nazad mislim
+07/16/2018,22:06:00,Me,Haha
+07/16/2018,22:07:45,Plaki,Pa ne znam ako joj dvije kcerke budu htjele
+07/16/2018,22:07:47,Plaki,Ahhaahhaahha
+07/16/2018,22:08:01,Me,Plaki
+07/16/2018,22:08:05,Me,U sta si se to uvalio
+07/16/2018,22:08:10,Me,Bolan
+07/16/2018,22:08:54,Plaki,U sta cu ze bolan uvaljivati sta ti mislis da sam se zaljubio
+07/16/2018,22:09:17,Me,Ma sta ja znam
+07/16/2018,22:09:28,Me,Varljivo je to tvoje srce
+07/16/2018,22:10:56,Plaki,Hladno ko mermer
+07/16/2018,22:12:07,Me,Hahaha
+07/16/2018,22:12:12,Me,Hajde dobro je onda
+07/16/2018,22:12:17,Me,Lijepa je kako god
+07/16/2018,22:18:17,Plaki,"Iskreno da ti kazem dama je moj alter ego znaci sve sto ja volim na zeni ona to ima, sve sto me interesuje i nju interesuje, strasno je inteligentna i da smo se upoznali u nekom drugom vremenu bila bi "" ta"" al ovako je zakasnila"
+07/16/2018,22:18:33,Plaki,Jedno deset godina
+07/16/2018,22:18:38,Me,Haha
+07/16/2018,22:18:53,Me,Eto vidis
+07/16/2018,22:18:57,Me,Spriceru
+07/16/2018,22:19:11,Me,Nista
+07/16/2018,22:19:25,Me,Da ti spremam papire za usvajanje ovdje kad se vratis?
+07/16/2018,22:19:35,Me,Jel te vec zovu djeca papa?
+07/16/2018,22:19:57,Plaki,Djeca su me htjela povesti u geteborg
+07/16/2018,22:19:59,Plaki,Hahaahahah
+07/16/2018,22:20:11,Me,Nista plaki
+07/16/2018,22:20:37,Me,To bi bilo to
+07/16/2018,22:21:43,Plaki,Kako za koga
+07/16/2018,22:22:56,Me,Vidjet ces jos za koji mjesec
+07/16/2018,22:23:00,Me,Kad ti se uvuce
+07/16/2018,22:23:04,Me,Miris zene
+07/16/2018,22:23:13,Me,U kozu
+07/16/2018,22:23:46,Me,Al drago mi je da ti se konacno svidja neko toliko
+07/16/2018,22:24:02,Me,I da mozes konkretno to iskazati
+07/16/2018,22:25:43,Plaki,"Ma nista od tog, imam ja dovoljno razuma u glavi da predvidim to"
+07/16/2018,22:26:17,Plaki,Tako da necu dopustiti to da se desi
+07/16/2018,22:26:45,Me,Ma uzivaj
+07/16/2018,22:27:02,Me,Covjece bio sam u berlinu 5 dana
+07/16/2018,22:27:11,Me,Koliko nam je zivota proslo
+07/16/2018,22:27:14,Me,Neizivljenog
+07/16/2018,22:27:33,Me,"Avantura, prilika milion"
+07/16/2018,22:28:05,Me,Brate lijepa ti prica za ostatak zivota
+07/16/2018,22:28:15,Me,Zabijao u 20im u svedkoj
+07/16/2018,22:28:23,Me,S curom pod rukom
+07/16/2018,22:29:12,Me,Sta god samo da se izvaditi iz agonije svakodnevnice
+07/16/2018,22:29:21,Me,(wink2)(like)
+07/16/2018,22:31:50,Plaki,Slazem se al imam ja vece ambicije od toga
+07/16/2018,22:32:11,Me,Ma naravno
+07/16/2018,22:32:18,Me,Govorim ti za nju konkretno
+07/16/2018,22:32:33,Me,Bolje s njom nego sam
+07/16/2018,22:32:37,Me,...nekad
+07/16/2018,22:32:38,Me,Haha
+07/16/2018,22:32:57,Plaki,Hahah
+07/16/2018,22:33:14,Plaki,Otkud ti u berlinu
+07/16/2018,22:34:08,Me,Pa bolan bolan
+07/16/2018,22:34:14,Me,Koncert rolling stonesa
+07/16/2018,22:34:31,Me,170 000 ljudi
+07/16/2018,22:35:10,Me,Ma hej
+07/16/2018,22:35:21,Me,Kad dodjes
+07/16/2018,22:35:24,Me,Sjest cemo
+07/16/2018,22:35:27,Me,Ispricat cemo se
+07/16/2018,22:35:30,Me,Imamo o cemu
+07/16/2018,22:35:32,Me,Hahah
+07/16/2018,22:38:21,Plaki,Hahaa
+07/16/2018,22:38:24,Plaki,Moze
+07/16/2018,22:38:32,Plaki,Ajde odo sta pogledati
+07/16/2018,22:38:35,Plaki,Cucemo se
+07/16/2018,22:48:26,Me,Jesi sta pogledao da je dobro?
+07/19/2018,14:05:29,Plaki,"""The class of 92"""
+07/19/2018,15:01:32,Me,Man u
+07/19/2018,18:01:03,Plaki,Da
+07/24/2018,15:09:10,Plaki,"[{""iOS_bundleImageName"":null,""iOS_backgroundColor"":""0"",""ImageUrl"":""https:\/\/m.media-amazon.com\/images\/M\/MV5BNzc2ZDJkNzktNTUxYS00OTQ1LWFjMWMtNGFiM2Y5NTkxNGMxXkEyXkFqcGdeQXVyNjg5NjU2MzA@._V1_UY1200_CR86,0,630,1200_AL_.jpg"",""Action"":{""name"":""openurl"",""parameters"":{""url"":""https:\/\/m.imdb.com\/title\/tt8638420\/""}},""ImageType"":""regular"",""iOS_imageContentMode"":1,""DownloadID"":null,""iOS_imageFormat"":null,""iOS_ShowPlayButton"":true,""Width"":502,""iOS_isEmbeddedVideoURL"":true,""Type"":""img"",""DisplayWidth"":556,""BucketName"":null,""iOS_HighlightOnTap"":true,""DisplayHeight"":314},{""HighlightLinks"":false,""MaxLinesNumber"":2,""Underline"":true,""Action"":{""name"":""openurl"",""parameters"":{""url"":""https:\/\/m.imdb.com\/title\/tt8638420\/""}},""Bold"":false,""Width"":502,""HighlightEmoticons"":true,""Type"":""txt"",""Size"":2,""Color"":""1470418"",""iOS_HighlightOnTap"":true,""Text"":""Strokes of Genius (2018)"",""Italic"":false},{""HighlightLinks"":false,""MaxLinesNumber"":0,""Underline"":false,""Action"":{""name"":""openurl"",""parameters"":{""url"":""https:\/\/m.imdb.com\/title\/tt8638420\/""}},""Bold"":false,""Width"":502,""HighlightEmoticons"":true,""Type"":""txt"",""Size"":1,""Color"":""8553090"",""iOS_HighlightOnTap"":false,""Text"":""m.imdb.com"",""Italic"":false},{""Commands"":[{""name"":""ios_send_json_message"",""parameters"":{""mediaType"":""url"",""platform_key"":""ios"",""info"":""{\""ThumbnailWidth\"":0,\""ThumbnailHeight\"":0,\""URL\"":\""https:\\\/\\\/m.imdb.com\\\/title\\\/tt8638420\\\/\"",\""ContentType\"":\""text\\\/html;charset=UTF-8\"",\""Type\"":\""video\"",\""Title\"":\""Strokes of Genius (2018)\"",\""ThumbnailContentType\"":\""text\\\/html;charset=UTF-8\"",\""ThumbnailURL\"":\""https:\\\/\\\/m.media-amazon.com\\\/images\\\/M\\\/MV5BNzc2ZDJkNzktNTUxYS00OTQ1LWFjMWMtNGFiM2Y5NTkxNGMxXkEyXkFqcGdeQXVyNjg5NjU2MzA@._V1_UY1200_CR86,0,630,1200_AL_.jpg\"",\""ContentLength\"":112659,\""Text\"":\""https:\\\/\\\/m.imdb.com\\\/title\\\/tt8638420\\\/\""}""}},{""name"":""copy"",""parameters"":{""str"":""https:\/\/m.imdb.com\/title\/tt8638420\/""}},{""name"":""ios_forward_json_message"",""parameters"":{""mediaType"":""url"",""info"":""{\""ThumbnailWidth\"":0,\""ThumbnailHeight\"":0,\""URL\"":\""https:\\\/\\\/m.imdb.com\\\/title\\\/tt8638420\\\/\"",\""ContentType\"":\""text\\\/html;charset=UTF-8\"",\""Type\"":\""video\"",\""Title\"":\""Strokes of Genius (2018)\"",\""ThumbnailContentType\"":\""text\\\/html;charset=UTF-8\"",\""ThumbnailURL\"":\""https:\\\/\\\/m.media-amazon.com\\\/images\\\/M\\\/MV5BNzc2ZDJkNzktNTUxYS00OTQ1LWFjMWMtNGFiM2Y5NTkxNGMxXkEyXkFqcGdeQXVyNjg5NjU2MzA@._V1_UY1200_CR86,0,630,1200_AL_.jpg\"",\""ContentLength\"":112659,\""Text\"":\""https:\\\/\\\/m.imdb.com\\\/title\\\/tt8638420\\\/\""}"",""ios_forward_flags"":1,""platform_key"":""ios""}}],""Type"":""cmd"",""Width"":1},{""ios_URLMessageWithDirectLinkToGIF"":false,""ios_realMediaType"":""url"",""PreviewText"":""m.imdb.com"",""TrackingData"":null,""FmType"":null,""PushText"":""https:\/\/m.imdb.com\/title\/tt8638420\/"",""PreviewTextIndex"":null,""PushTextIndex"":null,""Width"":1,""ios_slashKeyTracking"":null,""ios_embeddedMediaUrlType"":0,""Type"":""info"",""OnClick"":null,""ios_GroupPushText"":null,""ios_shouldBeProcessed"":false}]"
+07/24/2018,15:09:18,Plaki,Ne znam kako ces me pocastiti za ovu preporuku
+07/24/2018,15:09:24,Plaki,Al eto iznenadi me
+08/05/2018,13:54:05,Plaki,Dobra
+08/08/2018,12:02:59,Me,Jel ovo divizija 1 konacno?
+08/08/2018,12:03:17,Me,"Ako jeste, a izgleda da jeste"
+08/08/2018,12:03:25,Me,Vjeruj da si me obradovao
+08/08/2018,21:25:47,Plaki,Jest
+08/08/2018,21:26:13,Plaki,Sad pocinju stvari da se desavaju
+08/08/2018,21:26:19,Plaki,Ovo je bilo bitno
+08/08/2018,22:17:56,Me,Tako je
+08/08/2018,22:18:03,Me,A sta nam je s onim?
+08/08/2018,23:43:07,Plaki,Ostao je u amalu
+08/09/2018,21:26:16,Me,Jel sezona u toku ili ste na pauzi sad?
+08/09/2018,21:26:32,Me,Kako ti se cini ekipa? Kako to izgleda?
+08/09/2018,23:33:47,Plaki,Od sljedece sedmice krece opet prvenstvo
+08/09/2018,23:33:55,Plaki,Ima jos 13 kola da se odigra
+08/09/2018,23:34:10,Plaki,Iskren da ti budem nije mi nesto ekipa
+08/09/2018,23:34:19,Plaki,Dosta ima mladi igraca
+08/09/2018,23:34:37,Plaki,I mislim da je odbrana kriticna
+08/09/2018,23:34:57,Plaki,Al je klub dobar
+08/09/2018,23:35:07,Plaki,Imaju savrsenu infrastruktur
+08/09/2018,23:35:08,Plaki,U
+08/09/2018,23:35:16,Plaki,Samo sto je glavni teren
+08/09/2018,23:35:18,Plaki,Umjetna
+08/09/2018,23:35:20,Plaki,Trava
+08/21/2018,10:25:15,Me,"Bajram Serif Mubarek Olsun, sve najbolje :)"
+08/21/2018,10:25:36,Me,Kad ces vamo?
+08/21/2018,17:38:18,Plaki,Allah razi olsun
+08/21/2018,17:38:29,Plaki,Necu sigurno prije novmebra
+08/21/2018,19:15:21,Me,Hajde hajde
+08/21/2018,19:16:09,Plaki,Tvojih ruku djelo
+08/21/2018,19:16:18,Me,Cedo moje
+08/21/2018,19:20:35,Plaki,Haahaha
+08/21/2018,19:21:37,Plaki,Kakavih sam ja klunarski trikova naucio za ovo godinu i po
+08/21/2018,19:46:39,Plaki,Al oliver mani se kicenja zna se kako hamburger treba da izgleda. Da li si jeo ikad ratkapu u totu
+08/21/2018,19:46:51,Plaki,E to je hamburger
+08/21/2018,19:47:10,Plaki,Mora da je ljepsa polovina tu pa se pokusavas istaknuti
+08/21/2018,20:03:58,Me,Ma nije
+09/16/2018,17:28:06,Me,Svaka cast
+09/16/2018,17:28:07,Me,Dobar go
+09/16/2018,17:28:11,Me,Uzasna frizura
+09/16/2018,19:46:05,Plaki,Hvala
+09/16/2018,19:46:19,Plaki,Nista osisat cu se da zadoovoljim tovoj ukus
+09/16/2018,19:46:37,Plaki,Ako ce te to ispuniti
+09/25/2018,14:19:11,Me,Kako ide plakiiiiiii
+09/25/2018,17:43:45,Plaki,DOBROOoooo
+12/01/2018,10:43:50,Me,Jel sve ok proslo sa centralom ?
